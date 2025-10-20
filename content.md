@@ -1,74 +1,102 @@
 *October 20, 2025*
 
-# Chairside vs Certified Dental Assistants in BC: A Smart Strategy for Efficient, Compliant Practices
-
+# Chairside vs. Certified Dental Assistants in BC: What Dentists Need to Know
 ![A skilled dental assistant in a BC clinic. Trained Chairside Dental Assistants and Certified Dental Assistants each play unique roles in a dental practice’s success.](https://raw.githubusercontent.com/ascentiaci/blog-content/refs/heads/main/images/blog_1.png)
 
- *Figure: A skilled dental assistant in a BC clinic. Trained Chairside Dental Assistants and Certified Dental Assistants each play unique roles in a dental practice’s success.*  
+Hiring the right dental assistant is crucial for a smoothly run practice. In British Columbia, **Dental Assistants** generally fall into two categories: **Certified Dental Assistants (CDAs)** and **“Chairside” Dental Assistants** (uncertified). While their titles sound similar, their training, legal scope of practice, and roles in your office are very different. This article compares chairside and certified dental assistants in BC – helping dentists and office managers understand each role and make informed staffing decisions.
 
-Running a dental practice in British Columbia means juggling quality patient care with regulatory compliance and efficient operations. One key decision is how to staff your team: do you need a **Certified Dental Assistant (CDA)**, an **uncertified Chairside Dental Assistant**, or both? Understanding the differences between these roles – and how each can contribute – is crucial. Many practices focus only on hiring CDAs, overlooking the value a trained chairside assistant can add. In this post, we’ll clarify what each role **legally can and cannot do in BC**, and show how leveraging both can make your practice more efficient and compliant.
+## Understanding the Two Roles
 
-## Certified vs. Chairside Dental Assistants: What’s the Difference?
+According to the [BC Dental Association](https://www.bcdental.org/) and [WorkBC](https://www.workbc.ca/career-profiles/dental-assistants), there are **two levels of dental assisting in BC**:
 
-**Training and Credentials:** In BC there are two levels of dental assistants. **Certified Dental Assistants (CDAs)** complete formal college diploma programs and must pass the National Dental Assisting Examining Board (NDAEB) exam to become certified by the BC College of Oral Health Professionals (BCCOHP). They earn a license that permits them to perform certain patient care procedures under a dentist’s supervision. By contrast, **“Chairside” Dental Assistants** are typically *uncertified* assistants who may learn on the job; no formal training or licensing is required to work as a basic dental assistant in BC. (However, many chairside assistants now undergo short certificate programs for foundational training – more on that later.)
+- **Certified Dental Assistants (CDAs)** – CDAs complete a formal diploma/certificate program at an accredited college and **must be certified by the [BC College of Oral Health Professionals (BCCOHP)](https://oralhealthbc.ca/)**. They are trained to assist the dentist during patient treatment and are **qualified to perform certain procedures on patients under the dentist’s direction**. In other words, CDAs can carry out some hands-on **intra-oral tasks** in the patient’s mouth (beyond just passing instruments).
 
-**Scope of Practice:** The biggest distinction is **what tasks each is legally allowed to do**. In British Columbia, only CDAs are authorized to perform **intra-oral procedures** (i.e. tasks **inside a patient’s mouth**) under the dentist’s direction. Uncertified chairside assistants are limited to **extra-oral duties** (tasks **outside the patient’s mouth**). The BC Dental Association emphasizes that a chairside assistant’s duties *“do not include procedures carried out on the patient.”* This legal limitation protects patients and ensures that any invasive or risk-bearing procedures are done by qualified personnel.
+- **Chairside Dental Assistants (Uncertified)** – Often simply called “dental assistants,” these individuals typically **do not require formal training** – they learn on the job, trained by the dentist. A chairside assistant’s duties are **limited to extra-oral support**. Unlike a CDA, a non-certified assistant **cannot perform any procedures inside the patient’s mouth**. Their role is restricted to helping the dentist **outside** the oral cavity (e.g. preparing instruments, charting, sterilization, and patient management), rather than independently doing clinical tasks on the patient.
 
-To illustrate, here are examples of typical duties for each role in a BC dental office:
+In short, **only a Certified Dental Assistant may perform “intra-oral” duties in BC, whereas an uncertified chairside assistant is limited to “extra-oral” duties**. This fundamental difference is defined by provincial regulations for health professionals and directly impacts what each type of assistant can do in your practice.
 
-- **Certified Dental Assistant (CDA) – Intra-Oral & Clinical Duties:**  
-  * *Clinical procedures:* Taking and developing dental X-rays, polishing teeth, applying fluoride or sealants, taking preliminary impressions, placing rubber dams, making temporary crowns, and even removing sutures – all under the dentist’s supervision. CDAs essentially extend the dentist’s reach by performing many hands-on tasks in the operatory that would otherwise require the dentist or hygienist.  
-  * *Direct patient care:* CDAs can apply topical anesthetic, assist with fillings and extractions by suctioning or retracting, perform periodontal screening, and conduct other intra-oral assessments as delegated. Their training and certification ensure they possess the competencies to carry out these procedures safely and effectively.
+## Training and Certification Requirements
 
-- **Chairside Dental Assistant (Uncertified) – Extra-Oral Support Duties:**  
-  * *Clinical support:* Preparing patients for exams, seating them comfortably, and **assisting the dentist during procedures by passing instruments and keeping the area organized**. Chairside assistants also handle sterilization of instruments and disinfecting of treatment rooms, maintaining strict infection control protocols. Chairside assistants may also prepare patients for certain procedures by installing a dental dam. 
-  * *Administrative tasks:* Scheduling appointments, updating patient records, processing invoices, and ordering dental supplies. They often double as receptionist or office assistant, keeping the front-end of the practice running smoothly.  
-  * *Patient education and comfort:* While they don’t perform treatments, chairside assistants can teach patients about oral hygiene techniques and post-treatment care, as instructed by the dentist. They help put patients at ease during visits, improving the overall patient experience.
+The pathway to becoming a CDA is much more rigorous than for a chairside assistant:
 
-Importantly, **chairside assistants cannot perform any treatment that involves placing their hands inside the patient’s mouth** – for example, they **may not polish teeth, scale, apply fillings, or take impressions**, as those are restricted to certified professionals. One notable exception is X-rays: if a chairside assistant obtains a special radiography certification, **they can legally expose dental radiographs under a dentist’s supervision**. Apart from such limited exceptions, an uncertified assistant must stick to extra-oral duties. The distinction is mandated by BC law to protect patient safety.
+- **Education** – CDAs must graduate from an **accredited Level II dental assisting program** (typically 10–12 months long) at a recognized college. Programs include both Level I (chairside basics) and Level II (intra-oral skills) training. By contrast, a person can become a chairside dental assistant **with no formal schooling**, often starting with just a high school diploma and receiving on-the-job training.
 
-## Staying Within the Law: Compliance and Delegation in BC
+- **National Exam (NDAEB)** – After completing an accredited program, aspiring CDAs in BC are required to pass the [National Dental Assisting Examining Board (NDAEB)](https://www.ndaeb.ca/) written examination. **Holding the NDAEB certificate is mandatory** for new dental assisting graduates to become licensed/certified in almost all Canadian provinces, including British Columbia. This ensures they have met a national standard of competency. *Uncertified chairside assistants are not eligible to take the NDAEB exam* because they have not completed an accredited Level II program.
 
-Maintaining a compliant dental practice isn’t just good ethics – it’s the law. **British Columbia’s regulations strictly define which tasks are “restricted activities”** that carry risk and therefore **can only be performed (or delegated) by properly authorized professionals**. The BCCOHP, under the Health Professions Act, grants CDAs the authority to perform certain intra-oral procedures; hiring someone uncertified to do those tasks would violate these regulations. In fact, the college pointedly reminds dentists that they are **responsible for ensuring anyone they employ to provide oral healthcare is appropriately certified/registered** for the services they perform. 
+- **Provincial Certification (Licensure)** – Upon passing the NDAEB exam, the graduate can apply to register with the [BCCOHP](https://oralhealthbc.ca/) as a Certified Dental Assistant. BCCOHP is the regulatory body that governs CDAs (as well as dentists, hygienists, technicians, etc.) under BC law. Only those registered with BCCOHP may use the title “Certified Dental Assistant (CDA)” in BC and perform the full scope of CDA duties.
 
-What does this mean for a practice owner? It means you **must delegate tasks wisely**. For any intra-oral procedure or direct patient care act, you need a CDA or other licensed professional to carry it out. Allowing an unqualified staff member to perform those duties could put your practice at risk of unauthorized practice violations. On the other hand, **many supportive tasks do *not* require certification**, and that’s where a trained chairside assistant fits in perfectly. By clearly separating duties – CDAs handling the clinical intra-oral duties, and chairside assistants handling the extra-oral and administrative support – you can stay fully compliant while keeping the office workflow efficient. Every team member has a defined role that aligns with what the law permits.
+- **Training Programs** – Some institutions offer shorter **Chairside Dental Assisting courses** aimed at providing basic skills for on-the-job support. For example, [Ascentia Career Institute’s Chairside Dental Assistant Program](https://www.ascentiacareerinstitute.com/chairside-dental-assistant) is a 6-month program focusing on foundational knowledge and practical experience. **However, completion of a chairside program does *not* qualify graduates for BCCOHP certification as a CDA** nor to write the NDAEB exam. It’s meant to prepare students for entry-level assisting roles only. 
 
-**Bottom line:** A Chairside Dental Assistant can greatly ease the workload in your office *as long as* they stick to the allowable duties, and your Certified Dental Assistant or dentist takes on the restricted intra-oral tasks. With proper role definitions and training, **your practice can safely expand its capacity without breaking any rules**. In fact, using chairside assistants for support tasks is an excellent way to free up your certified staff for the clinical work only they can do.
+**Bottom line:** To become a Certified Dental Assistant in BC, an individual must complete accredited Level I & II training *and* pass the NDAEB exam to register with BCCOHP. A chairside assistant does not meet these requirements and thus cannot perform the expanded duties reserved for certified professionals.
 
-## The Efficiency Boost: How Two Roles Together Elevate Your Practice
+## Scope of Practice and Duties
 
-Having both CDAs and chairside assistants on your team isn’t redundancy – it’s **smart staffing strategy**. Each role complements the other to create a more productive, agile practice. Here’s how leveraging both can benefit your operations:
+Because of their differing training and regulatory status, CDAs and chairside assistants have distinct scopes of practice. Understanding what tasks each can (and cannot) do is essential for proper staff utilization and compliance with regulations.
 
-- **Maximized Productivity:** With a chairside assistant handling instrument prep, charting, cleanup, and patient prep, your CDA and dentist can focus fully on patient treatment without constant interruptions. More patients can be seen in a day when the dentist isn’t scrambling to set up rooms or sterilize tools between appointments. The *dentist and CDA* work at the top of their qualifications, while the chairside assistant efficiently takes care of the rest. This **division of labor** translates to smoother, faster appointments and better use of everyone’s time.
+### What a Certified Dental Assistant Can Do
 
-- **Reduced Burnout & Better Patient Care:** Dental teams in BC are busy – over the next decade, *more than 2,000 dental assistant job openings are projected*, indicating high demand and workload. By distributing tasks appropriately, you prevent your certified staff from being overburdened with routine duties. Your CDA can devote attention to clinical procedures and patient interaction, improving quality of care, while the chairside assistant ensures nothing falls through the cracks administratively. Patients benefit from a team that isn’t stretched thin: they get attentive care from the CDA/dentist **and** timely service (fast check-ins, prompt follow-ups) facilitated by the chairside assistant.
+CDAs are equipped with an expanded skillset that allows them to perform a variety of intra-oral and clinical functions under the supervision of a dentist:
 
-- **Flexibility and Coverage:** When the schedule gets hectic or if a CDA is away, a trained chairside assistant can step up to keep the office running – handling phone calls, assisting the dentist with non-invasive tasks, turning over rooms quickly – so your workflow doesn’t grind to a halt. This flexibility is especially valuable amid staffing shortages. Many BC clinics struggle to recruit enough CDAs in today’s market; bringing on chairside assistants can **fill critical support gaps**. While they won’t replace a CDA’s clinical functions, they ensure the practice can continue functioning smoothly and that certified staff time is used where it’s most needed.
+- **Taking and developing dental X-rays**
+- **Polishing teeth and clinical crowns**
+- **Applying fluoride treatments and sealants**
+- **Taking preliminary impressions**
+- **Placing and removing dental dams, matrix bands, liners**
+- **Providing oral hygiene instruction**
+- **Assisting in restorative and specialty procedures**
 
-- **Cost-Effective Staffing:** It’s no secret that Certified Dental Assistants, with their advanced skills, command higher salaries (the median wage for dental assistants in BC is around $30/hour). Investing in a mix of roles can be cost-efficient. You might choose to have one fewer CDA on staff by integrating a chairside assistant for support tasks. The chairside role typically comes with a lower wage than a CDA, reflecting the narrower scope. This doesn’t mean compromising on quality – a **trained** chairside assistant brings a high level of competence in their domain. By optimizing personnel costs, the practice can allocate more resources to patient care technology, training, or other improvements.
+The [BCCOHP](https://oralhealthbc.ca/) outlines these duties as part of the CDA’s regulated scope. CDAs do not diagnose or drill, but by handling many intra-oral procedures, they allow dentists to focus on complex work. All clinical tasks are performed under dentist supervision.
 
-In short, a well-trained chairside dental assistant amplifies what your practice can achieve. They handle the “behind-the-scenes” work that keeps the clinic running like a well-oiled machine, while the certified professionals perform at the top of their license. This one-two punch can elevate both **efficiency** (seeing more patients, reducing downtime) and **patient satisfaction** (smooth visits, attentive service).
+### What a Chairside Dental Assistant Can Do
 
-## The Overlooked Asset: Trained Chairside Assistants and Their Value
+Chairside assistants focus exclusively on **non-invasive extra-oral duties**, such as:
 
-Despite these benefits, many practices are not fully tapping into the potential of chairside dental assistants. It’s easy to see why CDAs get all the attention – their clinical skills are indispensable. However, **a trained chairside assistant can be a game-changer for your practice** once you recognize what they *can* do. 
+- Preparing and cleaning treatment rooms
+- Sterilizing instruments
+- Seating patients and assisting during procedures (extra-orally)
+- Updating records and charting
+- Scheduling and administrative support
+- Explaining post-op instructions (non-clinical)
 
-First, consider training: While BC doesn’t *require* formal education for chairside assistants, hiring someone who **has** completed a dental assistant training program is a huge plus. Graduates of specialized chairside assistant programs come equipped with knowledge of dental terminology, infection control, four-handed dentistry techniques, and office software. They can hit the ground running. For example, Ascentia Career Institute offers a comprehensive 6-month **Chairside Dental Assistant** program covering everything from dental sciences and infection prevention to patient communication and administrative skills. Students even complete an 80-hour practicum to gain real clinic experience before graduation. This means when you hire an Ascentia-trained chairside assistant, you’re getting someone who’s already been **educated in proper procedures and workplace professionalism** – far more valuable than an untrained person who must learn everything on the job.
+The [WorkBC profile on dental assistants](https://www.workbc.ca/career-profiles/dental-assistants) and BCCOHP guidance confirm that **chairside assistants cannot perform procedures inside the patient’s mouth**. They are supportive team members who help the clinic function smoothly but are **not licensed for clinical care**.
 
-Secondly, a trained chairside assistant will understand their scope and limits. They know the boundaries of what they can legally do, and they’ve been taught to assist the dentist **within those boundaries**. This clarity prevents the scenario of an overzealous but untrained assistant inadvertently doing something beyond their remit. With a formally trained chairside assistant, you get peace of mind that they will uphold compliance while still being proactive in all allowable areas.
+### Legal Boundaries on Duties
 
-Finally, today’s chairside assistants are often *aspiring CDAs* or highly motivated individuals building their careers. They bring enthusiasm and a willingness to learn. By integrating them into your team, you’re also creating a pipeline for future CDA talent. Many chairside assistants go on to further their education – in fact, with additional training and passing the NDAEB exam, a chairside assistant **can become a Certified Dental Assistant** down the road. Supporting their development can foster loyalty; they may choose to stay with your practice as they advance, reducing turnover. In the meantime, you benefit from their contributions in the supporting role.
+These differences are not just guidelines – they are backed by law. BC’s health professions regulations define certain **“restricted activities”** which may only be delegated to certified professionals. Examples include:
 
-Don’t underestimate the impact that a capable chairside assistant can have. They might not have the “CDA” title, but when trained properly, they can dramatically improve day-to-day operations, team morale, and patient perceptions of your clinic. In an era when every dental office is looking for an edge – whether it’s shorter patient wait times, better online reviews, or a more organized workspace – this often-overlooked role could be your secret weapon.
+- Taking radiographs
+- Applying fluoride or sealants
+- Performing polishing
+- Taking impressions
 
-## Ready to Elevate Your Practice? Partner with Ascentia Career Institute
+The [Dentists Regulation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/226_2009#section4) under the Health Professions Act identifies these restricted tasks. Dentists are **not permitted** to assign them to uncertified team members.
 
-By now, it’s clear that combining Certified Dental Assistants with well-trained Chairside Dental Assistants leads to a more efficient and compliant practice. So how can you put this insight into action? **That’s where Ascentia Career Institute comes in.** We specialize in training job-ready Chairside Dental Assistants who are eager to support busy dental teams like yours. *(Note: Completion of Ascentia’s program does **not** confer CDA certification – instead, we focus on the vital skills that chairside assistants need in real-world practice.)*
+## Staffing Smart: How Both Roles Add Value
 
-**Imagine the immediate difference** an Ascentia graduate could make in your office: an extra set of skilled hands helping your dentists and CDAs, keeping the schedule on track, ensuring instruments are spotless, and patients are comfortable. All of this without stepping outside the bounds of what they’re allowed to do in BC. It’s a strategic hiring move that can boost your practice’s productivity **without compromising compliance or quality**.
+Both CDAs and chairside assistants play vital roles in the dental office.
 
-**Now is the time to act.** Don’t let your practice fall into the trap of overlooking talented support staff. Whether you’re struggling with CDA shortages or simply looking to improve operational flow, a trained chairside assistant could be the key. **Ascentia Career Institute is ready to connect you with competent Chairside Dental Assistants** who have the education and practical experience to make a positive impact from day one.
+**CDAs** bring high-level clinical support:
+- Legally perform expanded duties
+- Enhance patient care
+- Allow for efficient delegation
+- Are regulated, licensed professionals
 
-### **Call to Action: Partner with Ascentia Today**
+**Chairside Assistants** offer operational support:
+- Handle sterilization, prep, admin
+- Help CDAs and dentists stay focused
+- Improve front-desk and backroom flow
+- Are quicker to onboard and more flexible in some roles
 
-Is your dental practice ready to reach new heights of efficiency and patient care? **Take the next step by partnering with Ascentia Career Institute.** We invite dentists and office managers in BC to reach out and learn how our Chairside Dental Assistant program graduates can support your team. **Contact Ascentia today** to discuss your hiring needs, or even to get involved with our institute as a practicum placement site or supporter. Together, let’s empower your practice with the skilled assistants you need for continued growth and success. Your efficient, compliant, and patient-friendly dental office is just a connection away – **let’s make it happen!**
+Having both can help your practice run efficiently, stay compliant, and reduce staff burnout. They complement each other, especially in high-volume or short-staffed settings.
+
+## Final Thoughts and Call to Action
+
+**Certified Dental Assistants and Chairside Dental Assistants play distinct but complementary roles** in your practice. Understanding their scopes and requirements helps you staff strategically and legally.
+
+If you’re looking to add a reliable, trained support member to your team, consider connecting with [Ascentia Career Institute](https://www.ascentiacareerinstitute.com/chairside-dental-assistant). Our Chairside Dental Assistant graduates complete a 6-month program with real-world practicum experience – ready to contribute on day one in BC dental offices.
+
+👉 **Get in touch today** to learn how Ascentia can help you build a skilled, efficient, and compliant dental team.
+
+---
+
+*This article is informed by resources from [BCCOHP](https://oralhealthbc.ca/), [BCDA](https://www.bcdental.org/), [NDAEB](https://www.ndaeb.ca/), [WorkBC](https://www.workbc.ca/career-profiles/dental-assistants), and the [Dentists Regulation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/226_2009).*
